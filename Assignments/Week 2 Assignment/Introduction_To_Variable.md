@@ -23,4 +23,4 @@ while _Adgigun_ and _Adigson_ are called the value assigned to the variable
 * Becareful when using lower case (l) and upper case (O) because they could be confuse with number **(1)** and **(0)** respectiverly
 
 ### FOR MORE EXAMPLE ON HANDS LEARNING CLICK 
-[Variable](/Variable.py)
+[Variable](./src/Variable.py)
